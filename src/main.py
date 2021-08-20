@@ -55,7 +55,7 @@ if (__name__ == '__main__'):
 
     preview( camera, 4 )     # preview testing
 
-    # capturing an image
+    capture_and_save( camera, 'my_pi_image.jpg', 'my_folder' )      # capturing an image
 
 
 #================================================
