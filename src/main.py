@@ -50,8 +50,12 @@ def capture_and_save( camera : object, s_image_name : str, s_path : str ):
 #================================================
 
 if (__name__ == '__main__'):
-    # some code..
+    camera = PiCamera()
 
+
+    preview( camera, 4 )     # preview testing
+
+    # capturing an image
 
 
 #================================================
