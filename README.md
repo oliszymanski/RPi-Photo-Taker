@@ -18,11 +18,14 @@ This will be written in a clean code so that everyone will understand it.
 All functions that will be used in this project will be already setup on your Raspberry Pi.
 All the steps that we will be going through are listed here:
 
-1. set up the object for camera
+1. <u>set up the object for camera
 2. camera preview for 3 seconds 
-3. capture and save the image to your folder
+3. capture and save the image to your folder </u>
 
 <br>
+
+
+
 
 ### Step 1: set up the object for camera
 
@@ -79,6 +82,8 @@ camera.stop_preview()   # camera stops preview
 We can now run our python program.
 
 <br>
+
+
 
 ### Step 3: capture and save the image to your folder
 
